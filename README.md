@@ -1,6 +1,6 @@
 # sobre mim 
 -👋 Oi, eu sou @euketz conhecida como Raissa!
-- :+1: meu email de contato raissa.muchhom@gmail.com
+- :+1: Meu email de contato raissa.muchhom@gmail.com
 - 👀 Estou interessado em aprender a programar e a criar...  
 - 🌱 Estou aprendendo a programar recentemente a linguagem de javascript e scratch
 - 🐼 amo animais
